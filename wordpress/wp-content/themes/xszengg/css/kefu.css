@@ -1,0 +1,25 @@
+.rtbar { background-color: #333;position: fixed; top:120px; right: 0px; _position: absolute; z-index: 1500; border-radius:6px 0px 0 6px;}
+.box-left{ width: 36px; float:left; position: relative; z-index:1;height: 181px;}
+.box-left a { font-size:0; text-indent: -999em; display: block;}
+.box-right{ width: 160px; float: left; padding: 5px; overflow:hidden;display: none;}
+.box-right .cn {background:#F7F7F7; border-radius:6px;padding:10px;}
+.box-right .cn h4{    
+	font-size: 16px;
+    color: #333;
+    font-weight: 600;
+	margin-bottom:10px
+	}
+.box-right .cn ul li { padding-bottom:10px; border-bottom: solid 1px #E6E4E4;overflow: hidden; margin-bottom: 10px;}
+.box-right .cn ul li span { color: #777;float:left;margin-right:5px;}
+.btno, .btnc {  position: relative; z-index:9; top:25px; left: 0;  background-image: url("../images/shopnc.png"); background-repeat: no-repeat; display:block;  height: 146px;}
+.btno { background-position: 9px 2px;}
+.btnc { background-position: -32px 0;}
+.kf-wechat img{margin-bottom:10px;}
+.kf-wechat p{text-align:center;	
+    color: #333;
+    font-weight: 600;
+	margin-bottom:10px
+	}
+.kf-tel p{
+	line-height:2;
+}
